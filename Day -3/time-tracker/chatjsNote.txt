@@ -1,0 +1,4 @@
+https://www.npmjs.com/package/react-chartjs-2           - pie chart
+https://www.npmjs.com/package/chart.js?activeTab=readme - remaining items for the chart
+
+https://ui.shadcn.com/docs/installation/vite

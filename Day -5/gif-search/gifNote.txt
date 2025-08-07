@@ -1,0 +1,1 @@
+https://developers.giphy.com/docs/api/endpoint#search -> For Giphy Api
